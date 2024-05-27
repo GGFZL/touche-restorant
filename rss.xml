@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+ <rss version="2.0">
+	 <channel>
+		 <item>
+		 <title>News</title>
+		 <description>We have new beakfast, Name: spagetti.</description>
+		 <link>http://www.AAA.com</link>
+		 </item>
+	 </channel>
+ </rss>
